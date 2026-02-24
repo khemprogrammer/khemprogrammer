@@ -1,5 +1,11 @@
-# 💫 Hi 👋, I'm Khem Bahadur Lodh
-**A passionate Python Developer || Deep Learning || Khem Bahadur Lodh from Nepal**
+Hi, I'm Khem Bahadur Lodh  
+Full-Stack Developer | Django | React | AI Projects
+
+🚀 Featured Projects:
+- AwasarHub – Professional Networking Platform
+- JarvisAI – Offline Assistant
+- Phishing Detector – ML-based Security Tool
+
 
 Email Me 👉 ✉️ **khem.poo557@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
